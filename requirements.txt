@@ -1,0 +1,9 @@
+pandas
+numpy
+scipy
+statsmodels
+matplotlib
+seaborn
+jupyter
+google-cloud-bigquery
+db-dtypes

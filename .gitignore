@@ -1,0 +1,17 @@
+# Raw CMS files are large (200-400 MB each) - never commit them
+data/raw/
+*.csv.gz
+*.zip
+
+# Python
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
